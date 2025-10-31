@@ -9,8 +9,13 @@
 			"extensions": [
 				"formulahendry.code-runner"
 			]
+,
+            "settings": {
+                "code-runner.runInTerminal": true
+            }
 		}
 	}
+	
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
